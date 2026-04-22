@@ -25,14 +25,14 @@ O aplicativo possui duas telas principais:
 
 ##  Como Executar o Projeto
 
-1. Clone o repositório:
+1. Clone o repositório: https://github.com/dudamssr/funcionarios_flutter.git
 ```bash
 git clone 
 ```
 
 2. Acesse a pasta do projeto:
 ```bash
-cd flutter_funcionarios
+cd papelaria_produtos
 ```
 
 3. Instale as dependências:
